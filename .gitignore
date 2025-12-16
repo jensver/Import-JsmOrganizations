@@ -1,0 +1,7 @@
+# Local runs
+jsm_org_import_errors.csv
+*.log
+
+# Secrets (if you ever create them)
+.env
+*.secret
